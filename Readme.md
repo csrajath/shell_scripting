@@ -34,3 +34,6 @@
      - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/for.sh)
   - `break / continue` loop
      - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/break_continue.sh)
+  - Environment Variables
+    - These are the system defined variables which hold soem system value
+    - Example: `$PATH`, `$TERM`, `$MONITOR`
