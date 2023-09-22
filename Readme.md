@@ -21,3 +21,10 @@
 - variable
   - the value of a variable can be accessed using the `$` symbol. See, `greeting.sh` for example
   - as a best practice, it is good to have variable names in uppercase.
+- Branching and Looping
+  - `if` statement
+    - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/if.sh)
+  - `else` statement
+    - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/if_else.sh)
+  - `elif` statement
+    - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/elif.sh.sh)
