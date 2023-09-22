@@ -30,3 +30,7 @@
     - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/elif.sh.sh)
   - `while` loop
     - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/while.sh)
+  - `for` loop
+     - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/for.sh)
+  - `break / continue` loop
+     - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/break_continue.sh)
