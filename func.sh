@@ -1,16 +1,17 @@
 #!/usr/bin/env bash
 
 Greet() {
-    echo "Hello, Hi How are you?"    
+    local NAME=$1
+    echo "Hello, $NAME"    
 }
 
 Bye () {
-    echo 'Take care, have a great weekend.'
+    echo "Take care, have a great weekend $1."
 }
-echo 'Executing Greet function'
-Greet
+echo "Executing Greet function"
+Greet Bob
 
-echo 'Executing bye function'
-Bye
+echo "Executing bye function"
+Bye Rob
 
 exit 0

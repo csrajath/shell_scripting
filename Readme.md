@@ -38,4 +38,9 @@
     - These are the system defined variables which hold soem system value
     - Example: `$PATH`, `$TERM`, `$MONITOR`
   - Functions:
+    - a function is a logical grouping of objects
+    - Functions can take in parameters which can be assigned to global variable or local variable
     - See [here](https://github.com/csrajath/shell_scripting/blob/main/func.sh) for a sample functions program.
+  - Pipes:
+    - A command line technique in which multiple commands can be piped together to form a single interdependent command and execute in a silo.
+    - An example of piped shell script can be found [here](https://github.com/csrajath/shell_scripting/blob/main/func.sh)
