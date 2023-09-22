@@ -37,3 +37,5 @@
   - Environment Variables
     - These are the system defined variables which hold soem system value
     - Example: `$PATH`, `$TERM`, `$MONITOR`
+  - Functions:
+    - See [here](https://github.com/csrajath/shell_scripting/blob/main/func.sh) for a sample functions program.
