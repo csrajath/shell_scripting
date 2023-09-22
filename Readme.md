@@ -28,3 +28,5 @@
     - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/if_else.sh)
   - `elif` statement
     - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/elif.sh.sh)
+  - `while` loop
+    - Refer [here](https://github.com/csrajath/shell_scripting/blob/main/while.sh)
