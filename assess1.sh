@@ -19,6 +19,3 @@ EOF
 
 # Step 4: Provide Feedback
 echo "MongoDB installation and database setup completed."
-echo "Database: mydatabase"
-echo "User: myuser"
-echo "Password: mypassword"
